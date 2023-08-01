@@ -1,0 +1,52 @@
+h3{
+    color: blue;
+    font-size: 100px;
+    background-color: black;
+}
+
+p{
+    font-size: 30px;
+    color: #7fffd4;
+}
+input[type="Name"]{
+    color: yellowgreen;
+}
+input[type="Phone Number"]{
+    color: rgb(47, 65, 11);
+}
+input[type="Email"]{
+    color: rgb(104, 105, 102);
+}
+input[type="Password"]{
+    color: rgb(15, 22, 2);
+}
+img[src]{
+    background-color: antiquewhite;
+    border: 1px solid black ;
+
+}
+img{
+    border-radius: 300px ;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+a:link{
+    color: antiquewhite;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: aquamarine;
+}
+a:active{
+    color: bisque;
+}
+div:hover{
+    background-color: blue;
+    height: 500PX;
+    width: 500PX;
+}

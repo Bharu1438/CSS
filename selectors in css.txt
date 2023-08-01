@@ -1,0 +1,14 @@
+by using class name     (.)
+by using id name	    (#)
+by using element name   (Tag name)
+universal selector	    (*)
+attribute selector	    ()
+pseudo selector		    ((:)link,visited,hover,active)
+MBD 172 
+
+borders:-
+        dotted,solid,double,dashed,
+sides
+shorthand
+
+#851903
