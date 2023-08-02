@@ -12,3 +12,10 @@ sides
 shorthand
 
 #851903
+
+TEXT IN CSS:
+        align:-CENTER ,LEFT,RIGHT,justify
+        transform:-upper case,lower case,capitilize
+        shadow
+display:-
+        inline,block,display-none
